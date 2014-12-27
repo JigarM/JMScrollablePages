@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>666B0939-DFC3-4DFE-A85A-B073BD10EF77</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JMScrollablePages</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E75ADFF83575882D19610E62FA3814C806DF18EF</key>
+		<string>https://github.com/JigarM/JMScrollablePages.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JMScrollablePages.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E75ADFF83575882D19610E62FA3814C806DF18EF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JigarM/JMScrollablePages.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E75ADFF83575882D19610E62FA3814C806DF18EF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E75ADFF83575882D19610E62FA3814C806DF18EF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JMScrollablePages</string>
+		</dict>
+	</array>
+</dict>
+</plist>
